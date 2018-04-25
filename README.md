@@ -7,7 +7,8 @@ This project contains a template to use when creating a new project. It comes wi
 1. Clone this project and copy the files into your own project
 2. Go through the checklist below
 3. Start developing!
-4. If in doubt, get in touch with opensource@zalando
+4. Ensure you are in compliance with Zalando rules of play
+5. If in doubt, get in touch with opensource@zalando
 
 There are several files you should read through to ensure they align with your project, follow the handy checklist below
 
