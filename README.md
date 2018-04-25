@@ -17,7 +17,7 @@ There are several files you should read through to ensure they align with your p
 - [ ] [CONTRIBUTORS](CONTRIBUTORS.md) updated with names
 - [ ] [CODEOWNERS](.github/CODEOWNERS) updated to reflect team
 - [ ] [Pull request template](.github/PULL_REQUEST_TEMPLATE.md) updated
-- [ ] [Issue template](.github/ISSUE_TEMPLATE.) updated
+- [ ] [Issue template](.github/ISSUE_TEMPLATE.md) updated
 - [ ] Readme updated (use template below) 
 
 ## Readme template
@@ -129,6 +129,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Thanks to @PurpleBooth for the original readme
+* Thanks to the @zalando/Nakadi project for Contribution file
+* Thanks to @SteveMao for [Issue templates](https://github.com/stevemao/github-issue-templates)
+
