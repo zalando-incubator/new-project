@@ -13,9 +13,9 @@ There are several files you should read through to ensure they align with your p
 
 - [x] Clone this project
 - [ ] [CONTRIBUTING.md](CONTRIBUTING.md) updated
-- [ ] [CONTRIBUTORS](CONTRIBUTORS.md) updated with names of external contributors
+- [ ] [CONTRIBUTORS.md](CONTRIBUTORS.md) updated with names of external contributors
 - [ ] [CODEOWNERS](.github/CODEOWNERS) updated with usernames of who review which PRs
-- [ ] [MAINTAINERS](CODEOWNERS) updated with team member contact info
+- [ ] [MAINTAINERS](MAINTAINERS) updated with team member contact info
 - [ ] [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) reviewed
 - [ ] [SECURITY.md](SECURITY.md) reviewed
 - [ ] [Pull request template](.github/PULL_REQUEST_TEMPLATE.md) reviewed
