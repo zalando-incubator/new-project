@@ -11,6 +11,7 @@ This project contains a template to use when creating a new project. It comes wi
 
 There are several files you should read through to ensure they align with your project, follow the handy checklist below
 
+- [x] Clone this project
 - [ ] [CONTRIBUTING.md](CONTRIBUTING.md) updated
 - [ ] [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) reviewed
 - [ ] [SECURITY.md](SECURITY.md) reviewed
