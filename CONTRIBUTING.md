@@ -19,12 +19,12 @@ To report a new bug you should open an issue that summarizes the bug and set the
 If you want to provide a fix along with your bug report: That is great! In this case please send us a pull request as described in section [Contribute Code](#contribute-code).
 
 ## Suggest a feature
-To request a new feature you should open an [issue](/issues/new) and summarize the desired functionality and its use case. Set the issue label to "feature".  
+To request a new feature you should open an [issue](../issues/new) and summarize the desired functionality and its use case. Set the issue label to "feature".  
 
 ## Contribute code
 This is a rough outline of what the workflow for code contributions looks like
 
-- Check the list of open [issues](/issues). Either assign an existing issue to yourself, or 
+- Check the list of open [issues](../issues). Either assign an existing issue to yourself, or 
 create a new one that you would like work on and discuss your ideas and use cases. 
 
 It is always best to discuss your plans beforehand, to ensure that your contribution is in line with our goals.
