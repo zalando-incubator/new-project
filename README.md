@@ -12,8 +12,8 @@ This project contains a template to use when creating a new project. It comes wi
 There are several files you should read through to ensure they align with your project, follow the handy checklist below
 
 - [ ] [Code of conduct] reviewed
-- [ ] [Security.md] reviewed
-- [ ] [Contributors] updated with names
+- [ ] [SECURITY.md] reviewed
+- [ ] [CONTRIBUTORS] updated with names
 - [ ] [CONTRIBUTING.md] updated
 - [ ] [CODEOWNERS](.github/CODEOWNERS) updated to reflect team
 - [ ] [Pull request template](.github/CODEOWNERS) updated
@@ -121,7 +121,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 * **Billie Thompson** - *Initial readme template* - @PurpleBooth
 * **Per Ploug** - *Adding files to reflect Zalando rules of play* - @perploug
 
-See also the list of [contributors](contributors) who participated in this project.
+See also the list of [contributors](CONTRIBUTORS) who participated in this project.
 
 ## License
 
