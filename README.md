@@ -11,13 +11,13 @@ This project contains a template to use when creating a new project. It comes wi
 
 There are several files you should read through to ensure they align with your project, follow the handy checklist below
 
-- [ ] [Code of conduct] reviewed
-- [ ] [SECURITY.md] reviewed
-- [ ] [CONTRIBUTORS] updated with names
-- [ ] [CONTRIBUTING.md] updated
+- [ ] [CONTRIBUTING.md](CONTRIBUTING.md) updated
+- [ ] [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) reviewed
+- [ ] [SECURITY.md](SECURITY.md) reviewed
+- [ ] [CONTRIBUTORS](CONTRIBUTORS.md) updated with names
 - [ ] [CODEOWNERS](.github/CODEOWNERS) updated to reflect team
-- [ ] [Pull request template](.github/CODEOWNERS) updated
-- [ ] [Issue template](.github/CODEOWNERS) updated
+- [ ] [Pull request template](.github/PULL_REQUEST_TEMPLATE.md) updated
+- [ ] [Issue template](.github/ISSUE_TEMPLATE.) updated
 - [ ] Readme updated (use template below) 
 
 ## Readme template
