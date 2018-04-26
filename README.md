@@ -52,7 +52,7 @@ Think about your project as a product, consider who your audience is, and how yo
 
 - **Avoid internal dependencies** Obviously projects that require Zalando specific infrastructure, configuration or process have very limited use to anyone outside Zalando. 
 - **Avoid narrow usecases** Does this solve a Zalando-only problem or does it have broarder application - is there things you could change to make it a more general product
-- **Have a Product vision** Do you know where you want to take this product? - then be open about it so future contributors are aware. Being opionated is great and it helps set expectations and the direction for the project
+- **Have a Product vision** Do you know where you want to take this product? - then be open about it so future contributors are aware. Being opinionated is great and it helps set expectations and the direction for the project
 - **Take ownership** Are you are benevolent dictator or open to anything? - consider how you will interact with future contrbutors who expect you to be an active maintainer
 - **Safe defaults** How do people get up and running - are there alot of ceremony involved or can you provide a simple out of the box experience so it is easy for users to evaluate your project
 
