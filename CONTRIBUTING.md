@@ -22,7 +22,7 @@ If you want to provide a fix along with your bug report: That is great! In this 
 To request a new feature you should open an [issue](../../issues/new) and summarize the desired functionality and its use case. Set the issue label to "feature".  
 
 ## Contribute code
-This is a rough outline of what the workflow for code contributions looks like
+This is an outline of what the workflow for code contributions looks like
 
 - Check the list of open [issues](../../issues). Either assign an existing issue to yourself, or 
 create a new one that you would like work on and discuss your ideas and use cases. 
@@ -31,11 +31,14 @@ It is always best to discuss your plans beforehand, to ensure that your contribu
 
 - Fork the repository on GitHub
 - Create a topic branch from where you want to base your work. This is usually master.
+- Open a new pull request, label it `work in progress` and outline what you will be contributing
 - Make commits of logical units.
 - Make sure you sign-off on your commits `git commit -s -m "adding X to change Y"` 
 - Write good commit messages (see below).
 - Push your changes to a topic branch in your fork of the repository.
-- Submit a pull request
+- As you push your changes, update the pull request with new infomation and tasks as you complete them
+- Project maintainers might comment on your work as you progress
+- When you are done, remove the `work in progess` label and ping the maintainers for a review
 - Your pull request must receive a :thumbsup: from two [maintainers](MAINTAINERS)
 
 Thanks for your contributions!
