@@ -1,6 +1,6 @@
-# Contributing to _project name_
+# Contributing to _projectname_
 
-**Thank you for your interest in _project name_. Your contributions are highly welcome.**
+**Thank you for your interest in _projectname_. Your contributions are highly welcome.**
 
 There are multiple ways of getting involved:
 
