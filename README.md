@@ -37,7 +37,9 @@ Readme.md template below, when setup is complete, delete all content above this 
 ```
 
 
-# $ProjectName
+# _projectname_
+
+_description_
 
 Describe what this project does. Keep this language human and friendly, so avoid internal references, acronyms and if you 
 have dependencies, provide a direct link to these.
