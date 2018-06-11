@@ -5,7 +5,7 @@ This project contains a template to use when creating a new project. It comes wi
 ## How to use
 
 1. Clone this project and copy the files into your own project
-2. Go through [this checklist](../issues/1)
+2. Go through [this checklist](../../issues/1)
 3. Start developing!
 4. Ensure you are in compliance with Zalando rules of play
 5. If in doubt, get in touch with opensource@zalando
