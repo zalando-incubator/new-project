@@ -5,23 +5,10 @@ This project contains a template to use when creating a new project. It comes wi
 ## How to use
 
 1. Clone this project and copy the files into your own project
-2. Go through the checklist below
+2. Go through [this checklist](../issues/1)
 3. Start developing!
 4. Ensure you are in compliance with Zalando rules of play
 5. If in doubt, get in touch with opensource@zalando
-
-There are several files you should read through to ensure they align with your project, follow the handy checklist below
-
-- [x] Clone this project
-- [ ] [CONTRIBUTING.md](CONTRIBUTING.md) updated
-- [ ] [CONTRIBUTORS.md](CONTRIBUTORS.md) updated with names of external contributors
-- [ ] [CODEOWNERS](.github/CODEOWNERS) updated with usernames of who review which PRs
-- [ ] [MAINTAINERS](MAINTAINERS) updated with team member contact info
-- [ ] [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) reviewed
-- [ ] [SECURITY.md](SECURITY.md) reviewed
-- [ ] [Pull request template](.github/PULL_REQUEST_TEMPLATE.md) reviewed
-- [ ] [Issue template](.github/ISSUE_TEMPLATE.md) reviewed
-- [ ] Readme updated (use template below) 
 
 ## Readme template
 
