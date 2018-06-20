@@ -12,7 +12,7 @@ This project contains a template to use when creating a new project. It comes wi
 
 ## Readme template
 
-Below you can find a complete readme template for a project (based on [work](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) by [@PurpleBooth](/PurpleBooth)), this will help you communicate the vision and goals of the project as well as answering common questions from future contributors.
+Below you can find a complete readme template for a project (based on [work](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) by [@PurpleBooth](https://github.com/PurpleBooth)), this will help you communicate the vision and goals of the project as well as answering common questions from future contributors.
 
 The readme file is the single most important documentation of your project, so make sure you spend time on giving a great first impression to new users and provide the needed information to interested contributors.
 
@@ -131,6 +131,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Thanks to [@PurpleBooth](/PurpleBooth) for the original readme
-* Thanks to the [@zalando/Nakadi](/zalando/nakadi) project for Contribution file
-* Thanks to @SteveMao for [Issue templates](https://github.com/stevemao/github-issue-templates)
+* Thanks to [@PurpleBooth](https://github.com/PurpleBooth) for the original readme
+* Thanks to the [@zalando/Nakadi](https://github.com/zalando/nakadi) project for Contribution file
+* Thanks to [@SteveMao](https://github.com/stevemao) for [Issue templates](https://github.com/stevemao/github-issue-templates)
