@@ -12,7 +12,7 @@ This project contains a template to use when creating a new project. It comes wi
 
 ## Readme template
 
-Below you can find a complete readme template for a project (based on [work](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) by @PurpleBooth), this will help you communicate the vision and goals of the project as well as answering common questions from future contributors.
+Below you can find a complete readme template for a project (based on [work](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) by [@PurpleBooth](/PurpleBooth)), this will help you communicate the vision and goals of the project as well as answering common questions from future contributors.
 
 The readme file is the single most important documentation of your project, so make sure you spend time on giving a great first impression to new users and provide the needed information to interested contributors.
 
@@ -20,7 +20,7 @@ The readme file is the single most important documentation of your project, so m
 ---- 
 
 ```
-Readme.md template below, when setup is complete, delete all content above this line
+Readme.md template below, when setup is complete, delete all content above this.
 ```
 
 
@@ -112,15 +112,16 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
-Please read [CONTRIBUTING.md] for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our process for submitting pull requests to us, and please ensure
+you follow the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/zalando-incubator/_projectname_/tags). 
 
 ## Authors
 
-* **Per Ploug** - *Adding files to reflect Zalando rules of play* - [@perploug]
+* **Per Ploug** - *Adding files to reflect Zalando rules of play* - [@perploug](/perploug)
 
 See also the list of [contributors](CONTRIBUTORS) who participated in this project.
 
@@ -130,7 +131,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Thanks to @PurpleBooth for the original readme
-* Thanks to the @zalando/Nakadi project for Contribution file
+* Thanks to [@PurpleBooth](/PurpleBooth) for the original readme
+* Thanks to the [@zalando/Nakadi](/zalando/nakadi) project for Contribution file
 * Thanks to @SteveMao for [Issue templates](https://github.com/stevemao/github-issue-templates)
-
