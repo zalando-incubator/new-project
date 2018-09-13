@@ -5,3 +5,5 @@ We are trying to deal with it responsibly and provide patches as quickly as  pos
 Email: Tech-Security@zalando.de
 OR
 Submit your vulnerability report through our bug bounty program at: https://hackerone.com/zalando
+
+...
