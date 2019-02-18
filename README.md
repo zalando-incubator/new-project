@@ -121,7 +121,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Per Ploug** - *Adding files to reflect Zalando rules of play* - [@perploug](/perploug)
+* **Per Ploug** - *Adding files to reflect Zalando rules of play* - [@perploug](https://github.com/perploug)
 
 See also the list of [contributors](CONTRIBUTORS) who participated in this project.
 
